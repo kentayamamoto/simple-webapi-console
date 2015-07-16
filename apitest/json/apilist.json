@@ -1,0 +1,12 @@
+[
+    {
+        "input": "?user_id=1", 
+        "type": "GET", 
+        "url": "/api/users/info"
+    }, 
+    {
+        "input": "{\"name\": \"kenta\", \"age\": \"20\"}", 
+        "type": "POST", 
+        "url": "/api/users/register"
+    }
+]

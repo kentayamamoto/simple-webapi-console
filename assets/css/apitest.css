@@ -1,0 +1,23 @@
+.width-max {
+	width:100%;
+}
+
+.h200 {
+	height: 200px;
+}
+
+.h265 {
+	height: 265px;
+}
+
+.center-select-box {
+	margin-bottom: 15px;
+}
+
+#method {
+	margin-top: 80px;
+}
+
+#bar {
+	width: 0%;
+}
