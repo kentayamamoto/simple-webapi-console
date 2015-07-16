@@ -3,7 +3,7 @@ $(function(){
 	window.myObj = {"x": 0};
 	
 	// リストの読み込み
-	var url = "apitest/json/apilist.json";
+	var url = "json/apilist.json";
 	$.ajax({
 		url: url,
 		type: 'GET',
